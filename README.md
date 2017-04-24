@@ -6,7 +6,7 @@ Docker image for https://github.com/mulesoft/api-console
 ## Install
 
 ```bash
-$ docker pull joshuamarquez/api-console
+$ docker pull joshuamarquez/api-console:0.1.0
 ```
 
 ## Quick example
