@@ -1,12 +1,12 @@
 # docker-api-console
-[![](https://images.microbadger.com/badges/version/joshuamarquez/api-console:0.1.0.svg)](https://microbadger.com/images/joshuamarquez/api-console:0.1.0 "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/joshuamarquez/api-console:0.1.0.svg)](https://microbadger.com/images/joshuamarquez/api-console:0.1.0 "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/joshuamarquez/api-console:0.1.1.svg)](https://microbadger.com/images/joshuamarquez/api-console:0.1.1 "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/image/joshuamarquez/api-console:0.1.1.svg)](https://microbadger.com/images/joshuamarquez/api-console:0.1.1 "Get your own image badge on microbadger.com")
 
 Docker image for https://github.com/mulesoft/api-console
 
 ## Install
 
 ```bash
-$ docker pull joshuamarquez/api-console:0.1.0
+$ docker pull joshuamarquez/api-console
 ```
 
 ## Quick example
