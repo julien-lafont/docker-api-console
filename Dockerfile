@@ -3,7 +3,7 @@ FROM alpine
 MAINTAINER Joshua Marquez "joshua.marquezn@gmail.com"
 
 # api-console version to use
-ENV API_CONSOLE_VERSION 3.0.15
+ENV API_CONSOLE_VERSION 3.0.19
 
 # Install some tools
 RUN apk add --update nodejs wget unzip && rm -rf /var/cache/apk/*
