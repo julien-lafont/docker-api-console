@@ -6,7 +6,7 @@ MAINTAINER Joshua Marquez "joshua.marquezn@gmail.com"
 ENV API_CONSOLE_VERSION 3.0.19
 
 # Install some tools
-RUN apk add --update nodejs wget unzip && rm -rf /var/cache/apk/*
+RUN apk add --update nodejs nodejs-npm wget unzip && rm -rf /var/cache/apk/*
 
 # Define working directory
 WORKDIR /api-console
