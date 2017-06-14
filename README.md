@@ -12,7 +12,7 @@ $ docker pull joshuamarquez/api-console
 ## Quick example
 
 ```bash
-$ docker run -p 9000:9000 -p 35729:35729 -d joshuamarquez/api-console
+$ docker run -p 9000:9000 -d joshuamarquez/api-console
 ```
 then go to `http://localhost:9000` and you will see the example RAML API.
 
