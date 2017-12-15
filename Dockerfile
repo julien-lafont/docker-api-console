@@ -1,9 +1,9 @@
 FROM alpine
 
-MAINTAINER Joshua Marquez "joshua.marquezn@gmail.com"
+MAINTAINER Julien Lafont "yotsumi.fx@gmail.com"
 
 # api-console version to use
-ENV API_CONSOLE_VERSION 3.0.19
+ENV API_CONSOLE_VERSION 3.0.24
 
 # Install some tools
 RUN apk add --update nodejs nodejs-npm wget unzip && rm -rf /var/cache/apk/*
